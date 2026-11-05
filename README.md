@@ -8,7 +8,7 @@ De applicatie en service zijn in het leven geroepen om medewerkers van waterscha
 #### Ontwikkelteam ####
 Bouw van de applicatie en beheer & onderhoud is vanaf de start in 2011 in handen van:
 
-* Siebe Bosch (Hydroconsult, https://github.com/SiebeBosch)
+* Siebe Bosch en John (Hydroconsult, https://github.com/SiebeBosch)
 
 met bijdragen van:
 
